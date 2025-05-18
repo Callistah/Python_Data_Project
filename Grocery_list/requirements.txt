@@ -1,0 +1,17 @@
+streamlit 
+pandas 
+imort 
+io 
+main 
+datetime 
+altair
+plotly.graph_objects
+networkx
+itertools  
+collections
+random  
+Colruty_scraping.colruyt_scraper_price
+colruyt_scraper_price
+datasets
+math
+pathlib
