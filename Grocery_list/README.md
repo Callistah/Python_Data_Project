@@ -14,13 +14,10 @@ I also scraped nutritional data from Colruyt to make sure the kcal and protein (
 Below are the questions I want to answer in my project:
 
 1. What are the most used recipes?
-2. Does the amount of ingredients used in a recipe influence how many times this recipe is logged?
-3. What category of ingredients is most frequently logged?
-4. How do ingredients relate to eachother? Are there ingrdients that are mostly used together in a recipe?
-5. How do recipes with a lower kcal/portion compare to recipes with a higher kcal/portion?
-6. Do recipes with a higher kcal/portion, on a whole, also have a higher prot/100kcal?
-7. Is there a type of recipe that is more popular?
-8. Is there an overall tendency in the recipes to one of these factors? 
+2. Is there a type of recipe that is more popular?
+3. Does the amount of ingredients used in a recipe influence how many times this recipe is logged?
+4. How do recipes with a lower kcal/portion compare to recipes with a higher kcal/portion?
+5. Is there an overall tendency in the recipes to one of these factors? 
 - Protein per 100 kcal
 - Calories per portion
 - Number of unique ingredients
